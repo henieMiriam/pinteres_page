@@ -1,0 +1,43 @@
+body{
+  background-image: url(https://st3.depositphotos.com/1747568/13670/v/1600/depositphotos_136705636-stock-illustration-abstract-pastel-background-with-smooth.jpg);
+  box-sizing: border-box;
+}
+header >*{
+  display:inline-block;
+  text-align: center;
+  background-image: url(http://www.solofondos.com/wp-content/uploads/2016/01/Fondos-pastel.jpg);
+}
+header > h1{
+  width: 5%;
+}
+header > form{
+  width: 70%;
+}
+header > navbar{
+  width: 20%;
+}
+.col{
+  float: right;
+  width: 20%;
+}
+img{
+  width: 90%;
+  height: 90%;
+  border-radius: 10%;
+
+}
+.image{
+  width: 80%;
+  height: 80%;
+
+}
+img:hover{
+  opacity: .5;
+  transform: scale(.90);
+}
+.titulo{
+  font-size: 19px;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: bold;
+}
